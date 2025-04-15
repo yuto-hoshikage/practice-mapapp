@@ -86,11 +86,12 @@
 				};
 			};
 			buildConfigurationList = CEF3E9582D77601C0097747C /* Build configuration list for PBXProject "TestMap" */;
-			developmentRegion = en;
+			developmentRegion = ja;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				ja,
 			);
 			mainGroup = CEF3E9542D77601C0097747C;
 			minimizedProjectReferenceProxies = 1;
